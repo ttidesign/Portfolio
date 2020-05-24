@@ -1,0 +1,34 @@
+header {
+	height: 50px;
+}
+h6 {
+	border-bottom: 1px solid rgb(39, 39, 39);
+	box-shadow: 5px 5px 5px black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: 'Muli';
+	font-weight: lighter;
+}
+.style-line {
+	margin-top: 30px;;
+	margin-bottom: 5px;
+	border-bottom: 0.5px solid rgba(224, 223, 213, 0.1);
+	box-shadow: 5px 6px 6px rgb(224, 223, 213);
+}
+.about-me {
+	max-width: 500px;
+	text-align: center;
+	margin: 20px auto;
+}
+
+@media (max-width: 823px) {
+h6{
+	font-size: 14px;
+}
+.about-me {
+	font-size: 12px;
+	width: 350px;
+	margin-bottom: 50px;
+}
+}
