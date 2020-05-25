@@ -23,7 +23,7 @@
 }
 .background-style {
 	background-color: white;
-	height: 370px;
+	height: 400px;
 }
 
 img {
@@ -52,4 +52,9 @@ span {
 	.skill-box-text {
 		width: 240px;
 	}
+}
+@media( min-width: 1366px) {
+    .skills-wrapper{
+        width: 1300px;
+    }
 }

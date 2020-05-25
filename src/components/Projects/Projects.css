@@ -1,0 +1,20 @@
+.project-image-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) ;
+    grid-gap: 10px;
+    margin: 0 auto;
+}
+.project-img{
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
+
+@media (max-width: 823px) {
+ .project-image-wrapper {
+     display: block;
+ }
+ .header{
+     position: relative;
+ }
+}
