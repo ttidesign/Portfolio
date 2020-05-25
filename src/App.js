@@ -6,8 +6,8 @@ import NavBar from './components/Nav/NavBar'
 import Intro from './components/Intro/Intro'
 import Skills from './components/Skills/Skills'
 import Projects from './components/Projects/Projects'
-import Footer from './components/Footer'
-import Resume from './components/Resume'
+import Footer from './components/Footer/Footer'
+import Resume from './components/Resume/Resume'
 function App() {
   return (
     <div >

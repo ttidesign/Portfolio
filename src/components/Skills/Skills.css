@@ -44,7 +44,8 @@ span {
 		margin: 0 auto;
 	}
 	.background-style {
-		display: none;
+		height: 950px;
+		opacity: 0;
 	}
 	.skill-box {
 		margin: 20px auto;

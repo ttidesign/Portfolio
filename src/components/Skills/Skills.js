@@ -1,7 +1,7 @@
 import React from 'react'
 import design from '../images/design2.png'
 import code from '../images/code2.png'
-// import './Skills.css'
+import './Skills.css' 
 function Skills() {
     return (
 			<>
