@@ -11,7 +11,7 @@ import Resume from './components/Resume'
 function App() {
   return (
     <div >
-      <Route path='/' exact component={NavBar} />
+      <Route path='/' component={NavBar} />
       <Route path='/' exact component={Intro}/>
       <Route path='/' exact component ={Skills}/>
       <Route path='/' exact component={Projects}/>

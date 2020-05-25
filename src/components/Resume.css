@@ -1,0 +1,23 @@
+.resume{
+width:800px;
+margin: 0 auto;
+text-align: left;
+font-size: 14px;
+}
+.title{
+    font-weight: 600;
+    font-size: 17px;
+}
+.company{
+    font-style: italic;
+}
+
+@media(max-width:823px) {
+    .resume{
+        width: 350px;
+        font-size: 12px;
+    }
+    .title{
+        font-size: 14px;
+    }
+}
