@@ -8,7 +8,7 @@ function NavBar() {
 		<div>
 			<Navbar expand='lg' bg='' variant='dark'>
 				<Navbar.Brand href='/'>
-					<img className='logo' src={logo} />
+					<img className='logo' src={logo} alt='ttid logo' />
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls='responsive-navbar-nav' />
 				<Navbar.Collapse id='responsive-navbar-nav'>

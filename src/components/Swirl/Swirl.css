@@ -1,0 +1,17 @@
+.presentation {
+	width: 800px;
+	margin: 0 auto;
+}
+.image-presentation {
+	width: 800px;
+	box-shadow: 3px 3px 8px black;
+	opacity: 0.9;
+}
+
+@media (max-width: 823px) {
+	.presentation,
+	.image-presentation {
+		width: 350px;
+		height: auto;
+	}
+}

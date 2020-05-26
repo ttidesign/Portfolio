@@ -1,0 +1,16 @@
+.presentation {
+	margin: 0 auto;
+	width: 800px;
+}
+.image-presentation {
+	width: 800px;
+	background-color: white;
+	box-shadow: 3px 3px 8px black;
+}
+@media (max-width: 823px) {
+	.presentation,
+	.image-presentation {
+		max-width: 350px;
+		height: auto;
+	}
+}

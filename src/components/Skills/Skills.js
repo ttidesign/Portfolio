@@ -7,7 +7,7 @@ function Skills() {
 			<>
 				<div className='skills-wrapper'>
 					<div className='skill-box'>
-						<img src={code} />
+						<img src={code} alt='coding'/>
 						<div className='skill-box-text'>DEVELOPER</div>
 						<span style={{ fontWeight: 'bold' }}>
 							Stacks & Programing Languages
@@ -27,7 +27,7 @@ function Skills() {
 						<span> {'\n'} Gitpage | Heroku</span>
 					</div>
 					<div className='skill-box'>
-						<img src={design} />
+						<img src={design} alt='designing'/>
 						<div className='skill-box-text'>DESIGNER</div>
 						<span style={{ fontWeight: 'bold' }}>Design Areas</span>
 						<span>

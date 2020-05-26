@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import p1 from '../images/p1.png';
 import p2 from '../images/p2.png';
 import p3 from '../images/p3.png';
@@ -17,50 +18,50 @@ function Projects() {
 			</div>
 			<div className='project-images-container'>
 				<div className='project-container'>
-					<img className='project-img' src={p1} />
-					<a href='https://ttidesign.github.io/GA-Project-1'>
+					<img className='project-img' src={p1} alt='project1-screenshot' />
+					<a href='https://ttidesign.github.io/GA-Project-1' target='blank'>
 						<button className='view-project'>View Project</button>
 					</a>
 				</div>
 				<div className='project-container'>
-					<img className='project-img' src={p2} />
-					<a href='https://tk-movies-search.herokuapp.com/'>
+					<img className='project-img' src={p2} alt='project2-screenshot' />
+					<a href='https://tk-movies-search.herokuapp.com/' target='blank'>
 						<button className='view-project'>View Project</button>
 					</a>
 				</div>
 			</div>
 			<div className='project-images-container'>
 				<div className='project-container'>
-					<img className='project-img' src={p3} />
-					<a href='https://ttidesign.github.io/GA-Project-1'>
+					<img className='project-img' src={p3} alt='project3-screenshot' />
+					<a href='https://essentialcrm.herokuapp.com/' target='blank'>
 						<button className='view-project'>View Project</button>
 					</a>
 				</div>
 				<div className='project-container'>
-					<img className='project-img' src={p4} />
-					<a href='https://tk-movies-search.herokuapp.com/'>
+					<img className='project-img' src={p4} alt='project4-screenshot' />
+					<a href='https://tk-movies-search.herokuapp.com/' target='blank'>
 						<button className='view-project'>View Project</button>
 					</a>
 				</div>
 			</div>
 			<div className='project-images-container-2'>
 				<div className='project-container-2'>
-					<img className='project-img-2' src={p6} />
-					<a href='https://ttidesign.github.io/GA-Project-1'>
+					<img className='project-img-2' src={p6} alt='project6-screenshot' />
+					<Link to='/trade'>
 						<button className='view-project-2'>View Project</button>
-					</a>
+					</Link>
 				</div>
 				<div className='project-container-2'>
-					<img className='project-img-2' src={p8} />
-					<a href='https://ttidesign.github.io/GA-Project-1'>
+					<img className='project-img-2' src={p8} alt='project8 screenshot' />
+					<Link to='/nuu'>
 						<button className='view-project-2'>View Project</button>
-					</a>
+					</Link>
 				</div>
 				<div className='project-container-2'>
-					<img className='project-img-2' src={p7} />
-					<a href='https://ttidesign.github.io/GA-Project-1'>
+					<img className='project-img-2' src={p7} alt='project7-screenshot' />
+					<Link to='/swirl'>
 						<button className='view-project-2'>View Project</button>
-					</a>
+					</Link>
 				</div>
 			</div>
 		</div>
