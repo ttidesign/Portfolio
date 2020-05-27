@@ -7,7 +7,7 @@ function Swirl() {
 		<div>
 			<div className='style-line'></div>
 			<h6>PROJECT BRIEF</h6>
-			<p>Swirl is a project</p>
+			<p className='brief'>Swirl is an UX/UI Project focus on simple interaction while presenting something unique to the user. Easy navigation through screens with spin-able controller, user can spend few minutes setup their custom drinks and add them to their favorite list to order later on. </p>
 			<div className='presentation'>
 				<img
 					className='image-presentation'

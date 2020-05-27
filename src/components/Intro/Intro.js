@@ -10,9 +10,9 @@ function Intro() {
 			<div className='about-me'>
 				<p> Hello! My name is TK </p>
 				<p>
-					I’m a software engineer with a background in product design. I have
-					experience working as an UX/UI designer and have always strived to
-					improve my skill set to become better at what I do. I’m looking for an
+					I’m a software developer with a background in product design. I'm
+					confident that I can utilize both to become better at what I do. I
+					have always strived to improve my skill set, and I’m looking for an
 					opportunity to apply my learning and knowledge to develop intuitive
 					websites and applications that enhance functionality and improve user
 					experience.
