@@ -1,6 +1,14 @@
-
 .navbar {
 	background-color: rgb(39, 39, 39);
+	box-shadow: none !important;
+}
+
+.navbar-toggler-icon {
+	font-size: 22px;
+	opacity: 0.7;
+}
+.navbar-toggler-icon:hover {
+	opacity: 1;
 }
 
 .logo {

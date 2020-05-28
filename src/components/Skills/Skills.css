@@ -38,6 +38,8 @@ span {
 	white-space: pre-wrap;
 }
 
+
+
 @media (max-width: 823px) {
 	.skills-wrapper {
 		display: block;
