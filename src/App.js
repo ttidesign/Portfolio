@@ -23,7 +23,7 @@ function App() {
 			<Route path='/' exact component={Contacts} />
 			<Route path='/resume' exact component={Resume} />
 			<Route path='/trade' exact component={Trade} />
-      <Route path='/nuu' exact component={Nuu}/>
+      		<Route path='/nuu' exact component={Nuu}/>
 			<Route path='/swirl' exact component={Swirl} />
 			<Route path='/' component={Footer} />
 		</div>
