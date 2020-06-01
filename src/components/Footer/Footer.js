@@ -16,11 +16,13 @@ function Footer() {
 			<a href='https://www.behance.net/KTDesign' target='blank'>
 				<img className='small-logo' src={behance} alt='behance logo' />
 			</a>
-			<img
-				className='small-logo'
-				src={email}
-				alt='mailto:tkthedesigner@gmail.com'
-			/>
+			<a href='mailto:tkthedesigner@gmail.com'>
+				<img
+					className='small-logo'
+					src={email}
+					alt='mailto:tkthedesigner@gmail.com'
+				/>
+			</a>
 		</div>
 	);
 }
