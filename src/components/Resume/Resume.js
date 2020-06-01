@@ -13,6 +13,7 @@ function Resume() {
 			<div className='resume'>
 				<div className='style-line'></div>
 				<h6>PROJECTS (Winter 2019 – Present) </h6>
+				<div className='spacer'></div>
 				<h5 className='title'>Portfolio Website </h5>
 				<p>
 					<li>
@@ -93,6 +94,7 @@ function Resume() {
 				<h5 className='title'> (Project 4)</h5>
 				<div className='style-line'></div>
 				<h6>SKILLS</h6>
+				<div className='spacer'></div>
 				<p>SOFTWARE DEVELOPMENT</p>
 				<p>
 					Javascript, React, Python, Express, Node.js, MongoDB, Django, SQL,
@@ -109,6 +111,7 @@ function Resume() {
 				</p>
 				<div className='style-line'></div>
 				<h6>PROFESSIONAL EXPERIENCE</h6>
+				<div className='spacer'></div>
 				<h5 className='title'> Product Designer</h5>
 				<p className='company'> Freelance | 2016-Present </p>
 				<p>
@@ -175,6 +178,7 @@ function Resume() {
 				</p>
 				<div className='style-line'></div>
 				<h6>EDUCATION</h6>
+				<div className='spacer'></div>
 				<h5 className='title'> General Assembly</h5>
 				<p> Software Engineer Immersive</p>
 				<h5 className='title'> San Jose State University | San Jose CA </h5>
