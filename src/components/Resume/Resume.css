@@ -19,6 +19,9 @@ h6 {
 .spacer{
     height:40px
 }
+.repo-link {
+    font-style: italic;
+}
 @media(max-width:823px) {
     .resume{
         width: 90vw;

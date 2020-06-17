@@ -12,7 +12,7 @@ function Resume() {
 			</div>
 			<div className='resume'>
 				<div className='style-line'></div>
-				<h6>PROJECTS (Winter 2019 – Present) </h6>
+				<h6>PROJECTS Spring 2020 – Present </h6>
 				<div className='spacer'></div>
 				<h5 className='title'>Portfolio Website </h5>
 				<p>
@@ -21,8 +21,8 @@ function Resume() {
 						the visual of my portfolio website
 					</li>
 					<li>
-						Used Javascript, React and Bootraps to create components and
-						interactions elements
+						Used Javascript, React,Bootraps and MDBootstrap to create components
+						and interactions elements
 					</li>
 					<li>
 						Used Git throughout the process for version control. Deployed on
@@ -32,7 +32,7 @@ function Resume() {
 				<h5 className='title'> Virtual Tour Flashcards </h5>
 				<p>
 					<li>
-						Created wireframes, cards’ image and contents using Sketch and
+						Created wireframes, card’s images and contents using Sketch and
 						AdobeCC
 					</li>
 					<li>
@@ -41,64 +41,101 @@ function Resume() {
 					</li>
 					<li>
 						Built the website with full functionality using vanilla Javascript
-						that utilized first class functions and DOM manipulation
+						utilizing first class functions and DOM manipulations
 					</li>
 					<li>
-						Used Git for version control. Tested features on development branch.
-						Deployed on github page.
-						<a href='https://github.com/ttidesign/GA-Project-1'>Link to repo</a>
+						Used Git best practices for version control. Deployed on github
+						page.
+						<a
+							className='repo-link'
+							href='https://github.com/ttidesign/GA-Project-1'>
+							Link to repo
+						</a>
 					</li>
 				</p>
 				<h5 className='title'> Movies Search </h5>
 				<p>
 					<li>
-						Created wireframes, logo for the project using Sketch and Adobe CC
+						Created plannings, wireframes, logo for the project using Sketch and
+						Adobe CC
 					</li>
 					<li>
 						Used React, Javascript HTML5, CSS3 to create the views and
 						interactions of my website
 					</li>
 					<li>
-						Built the app with full functionality using Reacts and other
-						libraries, utilizing API calls to get data and display results on
-						page
+						Used React, stateful components, hooks, other libraries and third
+						party API calls to get data and display results on page
 					</li>
 					<li>
 						Used Git for version control, tested on development branch. Deployed
 						master branch on Heroku.
-						<a href='https://github.com/ttidesign/GA-Project-2'>Link to repo</a>
+						<a
+							className='repo-link'
+							href='https://github.com/ttidesign/GA-Project-2'>
+							Link to repo
+						</a>
 					</li>
 				</p>
 				<h5 className='title'>Essential CRM </h5>
 				<p>
 					<li>
 						Used MongoDB, Mongoose, Express and Node.js to build backend
-						database for the website
+						database and REST API for the website
 					</li>
 					<li>
-						Built full C.R.U.D functionality for backend with minimal endpoints,
-						use jwt-token for authentication and authorization
+						Built full C.R.U.D for backend with minimal endpoints, use jwt-token
+						for authentication and authorization
 					</li>
 					<li>
-						Used React and Bootstrap for frontend components and interaction
+						Used React and Bootstrap for front-end components and interaction
 						elements. Used Postman to test endpoint and routes
+					</li>
+					<li>
+						Collaborate with other developers using Agile best practices
+						including pair programming
 					</li>
 					<li>
 						Backend hosted online on MongoDB Atlas, frontend hosted online on
 						Heroku.
-						<a href='https://github.com/statst/Group-project-CRM-backened'>
+						<a
+							className='repo-link'
+							href='https://github.com/statst/Group-project-CRM-backened'>
 							Link to repo
 						</a>
 					</li>
 				</p>
-				<h5 className='title'> (Project 4)</h5>
+				<h5 className='title'> Swirl E-Commerce</h5>
+				<p>
+					<li>
+						Used Django, PostgreSQL and Python to build database and REST API
+					</li>
+					<li>
+						Built full C.R.U.D for backend with Django Rest Framework, used
+						Django allauth for authentication
+					</li>
+					<li>
+						Used Django templates, Javascript and Bootstrap to create front-end
+						application
+					</li>
+					<li>Integrated Google map API and Paypal for payment handling</li>
+					<li>
+						Used Postman to test endpoints, deployed and hosted on Heroku.
+						<a
+							className='repo-link'
+							href='https://github.com/ttidesign/Swirl-Backend/tree/master/swirl_django'>
+							Link to repo
+						</a>
+					</li>
+				</p>
 				<div className='style-line'></div>
 				<h6>SKILLS</h6>
 				<div className='spacer'></div>
 				<p>SOFTWARE DEVELOPMENT</p>
 				<p>
-					Javascript, React, Python, Express, Node.js, MongoDB, Django, SQL,
-					Bootstrap, HTML5, CSS3, Postman.
+					HTML5, CSS3, Javascript, Python, React, Bootstrap, MDBootstrap,
+					Express, Node.js, MongoDB, Django, PostgreSQL, REST API, Agile
+					Methodology, Version Control, Testing, Postman, Git & Github
 				</p>
 				<p>PRODUCT DESIGNER</p>
 				<p>
@@ -131,24 +168,19 @@ function Resume() {
 					<li>
 						Designed and engineered RTA home and office furniture; researched
 						trends, developed products for new markets, and brought them to mass
-						production
+						production , increased market share by 10%
 					</li>
 					<li>
-						Increased market share 15% by successfully designing and introducing
-						new furniture products for Amazon, Walmart, Staples, Costco,
-						BestBuy, Target, Conns, and other retailers
+						Supported marketing teams and improve sales by 15% by successfully
+						designing and introducing new furniture products for Amazon,
+						Walmart, Costco, BestBuy, Target, and other retailers
 					</li>
 					<li>
 						Designed new furniture products which had a major impact in bringing
 						Disney on board and significant revenue increases
 					</li>
 					<li>
-						Improved work efficiency by 25% by building a CMF library in KeyShot
-						for use in ongoing/future products
-					</li>
-					<li>
-						Key contributor of new concepts to support marketing teams and
-						improve sales by 15%
+						Improved work efficiency by 25% by building a CMF library in KeyShot for use in ongoing/future products
 					</li>
 				</p>
 				<h5 className='title'> Lead Product Designer</h5>

@@ -14,7 +14,6 @@ function NavBar() {
 				<Navbar.Collapse id='responsive-navbar-nav'>
 					<Nav className='mr-auto'>
 						<Nav.Link href='/'>Home</Nav.Link>
-						<Nav.Link href='#Portfolio'>Portfolio</Nav.Link>
 						<Nav.Link className='link' href='/resume'>
 							Resume
 						</Nav.Link>

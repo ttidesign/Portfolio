@@ -16,7 +16,7 @@ function Skills() {
 								Stacks & Programing Languages
 							</span>
 							<span>
-								{'\n'}Javascript, React, Python, Node.js, Express.js, Django
+								{'\n'}Javascript, React, Python, Node.js, Express, Django
 							</span>
 							<div></div>
 							<span style={{ fontWeight: 'bold' }}>
@@ -24,13 +24,13 @@ function Skills() {
 								{'\n'} Developer Tools
 							</span>
 							<span> {'\n'} HTML5 | CSS3</span>
-							<span> {'\n'} Gitpage | Heroku</span>
-							<span> {'\n'} Bootstrap</span>
+							<span> {'\n'} Bootstrap | MDBootstrap</span>
 							<span> {'\n'} MongoDB | Mongo Atlas | Mongoose</span>
-							<span> {'\n'} SQL</span>
+							<span> {'\n'} PostgreSQL</span>
 							<span> {'\n'} Codepen | Postman</span>
-							<span> {'\n'} Git | Github</span>
-							<span> {'\n'} Gitpage | Heroku</span>
+							<span> {'\n'} VSCode | Sublime Text</span>
+							<span> {'\n'} Git | Github | Terminal</span>
+							<span> {'\n'} GitHub Page | Heroku</span>
 						</div>
 					</MDBAnimation>
 					<MDBAnimation type='fadeInRight' delay='0.3s' duration='600ms'>
@@ -45,12 +45,12 @@ function Skills() {
 							<span style={{ fontWeight: 'bold' }}> {'\n'} Design Tools</span>
 							<span> {'\n'} Figma</span>
 							<span> {'\n'} Sketch</span>
-							<span> {'\n'} Invision</span>
-							<span> {'\n'} Adobe CC</span>
-							<span> {'\n'} Paper | Pen | Marker</span>
-							<span> {'\n'} Solidworks</span>
-							<span> {'\n'} Fusion 360</span>
-							<span> {'\n'} Keyshot</span>
+							<span> {'\n'} InVision</span>
+							<span> {'\n'} Adobe XD</span>
+							<span> {'\n'} Pen | Paper | Marker</span>
+							<span> {'\n'} Adobe Photosop</span>
+							<span> {'\n'} Adobe Indesign</span>
+							<span> {'\n'} Adobe Illustrator</span>
 						</div>
 					</MDBAnimation>
 				</div>

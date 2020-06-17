@@ -4,7 +4,7 @@ import { MDBAnimation } from 'mdbreact';
 import p1 from '../images/p1.png';
 import p2 from '../images/p2.png';
 import p3 from '../images/p3.png';
-import p4 from '../images/p3.png';
+import p4 from '../images/p4.png';
 import p6 from '../images/p6.png';
 import p7 from '../images/p7.png';
 import p8 from '../images/p8.png';
@@ -48,7 +48,7 @@ function Projects() {
 				<MDBAnimation reveal type='fadeInUp' duration='600ms' delay='0.2s'>
 					<div className='project-container'>
 						<img className='project-img' src={p4} alt='project4-screenshot' />
-						<a href='https://tk-movies-search.herokuapp.com/' target='blank'>
+						<a href='https://swirl-project.herokuapp.com/' target='blank'>
 							<button className='view-project'>View Project</button>
 						</a>
 					</div>

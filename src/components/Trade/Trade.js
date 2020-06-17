@@ -16,9 +16,9 @@ function Trade() {
 				cryptocurrencies, Trade focused on efficiency of navigation through
 				screens. In an instance where profitable trades need to happen
 				instantly, it's important to make navigation as easy and efficient as
-				possible. The functional prototype is done in Invision and can be viewed{' '}
-				<a href='https://invis.io/NCVJZ1QBFQH#/399436921_Trade' target='blank'>
-					here{' '}
+				possible. The functional prototype is done in Invision and can be viewed
+				<a className='repo-link' href='https://invis.io/NCVJZ1QBFQH#/399436921_Trade' target='blank'>
+					 Here
 				</a>
 			</p>
 			<div className='presentation'>
