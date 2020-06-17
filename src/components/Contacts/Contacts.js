@@ -8,7 +8,7 @@ function Contacts () {
 				<h6>CONTACTS</h6>
 				<p className='contact-info'>Please send me an email if you have any question</p>
 				<p className='contact-info'>Email - tkthedesigner@gmail.com</p>
-                <p className='contact-info'> or checkout links below. Thank you</p>
+                <p className='contact-info'> or check out links below. Thank you</p>
 			</div>
 
 		);
